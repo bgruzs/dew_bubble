@@ -3,7 +3,7 @@ def antoine( a, T):
     #
     # Uses Antoine's equation to obtain the vapor pressure of a substance given
     # the coefficients of the equation:
-    #  Ps = a1 - a2/(a3+T)
+    # Ps = a1 - a2/(a3+T)
     #
     # INPUTS:
     #  a - the antoine coefficients with coeffients in columns and species in
