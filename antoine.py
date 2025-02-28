@@ -15,8 +15,8 @@ def antoine( a, T):
     #  Ps - row vector of species vapor pressures at the specified temperature,
     #       typically in bar.
     #
-    # The units depend on the units used for the coefficients. The user is
-    # responsible for maintaining consistency with units. NIST uses bar and K.
+    # The units of the returned value depend on the units used for the coefficients. 
+    # The user is responsible for maintaining consistency with units. NIST uses bar and K.
     #
     # Code originally by: James C. Sutherland
     # Modified by: Tyler R. Josephson
